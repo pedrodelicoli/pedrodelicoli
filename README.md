@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Pedro Delicoli
 
-- 🌱 I’m currently learning MongoDB...
+- 🌱 I’m currently learning NodeJS...
 
 <div align="center">
   <a href="https://github.com/pedrodelicoli">
