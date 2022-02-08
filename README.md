@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Pedro Delicoli
 
-- 🌱 I’m currently learning NodeJS...
+- 🌱 I’m currently ORM and Sequelize...
 
 <div align="center">
   <a href="https://github.com/pedrodelicoli">
