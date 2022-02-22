@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Pedro Delicoli
+### Olá 👋, eu sou Pedro Delicoli
 
-- 🌱 I’m currently learning ORM and Sequelize...
+- Sou Desenvolvedor e estou sempre estudando novas tecnologias, no momento estou aprendendo sobre ORM e Sequelize
 
 <div align="center">
   <a href="https://github.com/pedrodelicoli">
