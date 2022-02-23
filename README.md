@@ -2,13 +2,16 @@
 
 - Sou Desenvolvedor Fullstack Jr. e estou sempre estudando novas tecnologias, no momento estou aprendendo sobre ORM e Sequelize
 
+
+### Olá 👋, meu nome é Pedro
 <div align="center">
   <a href="https://github.com/pedrodelicoli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrodelicoli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodelicoli&layout=compact&langs_count=7&theme=dark"/>
 </div><br>
   
-    ##
+ ### Olá 👋, meu nome é Pedro
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
@@ -20,8 +23,6 @@
   <img align="center" alt="Pedro-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">  
 </div>
   
-  ##
- 
 <div> 
  <a href = "mailto:pedrogldelicoli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedrodelicoli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
