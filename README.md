@@ -4,14 +4,13 @@
 
 
 ## Principais tecnologias
-<br>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodelicoli&theme=dark&layout=compact)
 
 ## Histórico do Github
-<br>
+
 ![](https://github-readme-stats.vercel.app/api?username=pedrodelicoli&count_private=true&show_icons=true&theme=dark)
   
- 
 ## Tenho conhecimento em 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
