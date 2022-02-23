@@ -1,6 +1,7 @@
 ### Olá 👋, meu nome é Pedro
 
-- Sou Desenvolvedor Fullstack Jr. e estou sempre estudando novas tecnologias, no momento estou aprendendo sobre ORM e Sequelize
+- Sou Desenvolvedor Fullstack Jr. 
+- Estou aprendendo sobre ORM e Sequelize
 
 
 ## Principais tecnologias
