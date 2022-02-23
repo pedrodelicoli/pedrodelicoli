@@ -4,11 +4,11 @@
 
 ## Principais tecnologias
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodelicoli&theme=dracula&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodelicoli&theme=dark&layout=compact)
 
 ## Histórico do Github
 
-![](https://github-readme-stats.vercel.app/api?username=pedrodelicoli&count_private=true&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=pedrodelicoli&count_private=true&show_icons=true&theme=dark)
   
  
   
