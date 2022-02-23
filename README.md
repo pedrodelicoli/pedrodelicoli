@@ -2,13 +2,13 @@
 
 - Sou Desenvolvedor Fullstack Jr. e estou sempre estudando novas tecnologias, no momento estou aprendendo sobre ORM e Sequelize
 
+## Principais tecnologias
 
-### Olá 👋, meu nome é Pedro
-<div align="center">
-  <a href="https://github.com/pedrodelicoli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrodelicoli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodelicoli&layout=compact&langs_count=7&theme=dark"/>
-</div><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodelicoli&theme=dracula&layout=compact)
+
+## Histórico do Github
+
+![](https://github-readme-stats.vercel.app/api?username=pedrodelicoli&count_private=true&show_icons=true&theme=dracula)
   
  
   
