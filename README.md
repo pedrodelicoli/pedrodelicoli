@@ -1,6 +1,6 @@
-### Olá 👋, eu sou Pedro Delicoli
+### Olá 👋, meu nome é Pedro
 
-- Sou Desenvolvedor e estou sempre estudando novas tecnologias, no momento estou aprendendo sobre ORM e Sequelize
+- Sou Desenvolvedor Fullstack Jr. e estou sempre estudando novas tecnologias, no momento estou aprendendo sobre ORM e Sequelize
 
 <div align="center">
   <a href="https://github.com/pedrodelicoli">
