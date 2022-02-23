@@ -2,6 +2,7 @@
 
 - Sou Desenvolvedor Fullstack Jr. e estou sempre estudando novas tecnologias, no momento estou aprendendo sobre ORM e Sequelize
 
+
 ## Principais tecnologias
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodelicoli&theme=dark&layout=compact)
@@ -11,7 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=pedrodelicoli&count_private=true&show_icons=true&theme=dark)
   
  
-  
+## Tenho conhecimento em 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
