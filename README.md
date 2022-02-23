@@ -4,11 +4,11 @@
 
 
 ## Principais tecnologias
-
+<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodelicoli&theme=dark&layout=compact)
 
 ## Histórico do Github
-
+<br>
 ![](https://github-readme-stats.vercel.app/api?username=pedrodelicoli&count_private=true&show_icons=true&theme=dark)
   
  
