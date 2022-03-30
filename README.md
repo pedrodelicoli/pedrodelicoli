@@ -1,7 +1,6 @@
 ### Olá 👋, meu nome é Pedro
 
 - Sou Desenvolvedor Fullstack Jr. 
-- Estou aprendendo TypeScript
 
 
 ## Principais tecnologias
