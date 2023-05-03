@@ -1,6 +1,6 @@
 ### Olá 👋, meu nome é Pedro
 
-- Sou Desenvolvedor Fullstack Jr. 
+- Sou Desenvolvedor Fullstack. 
 
 
 ## Principais tecnologias
